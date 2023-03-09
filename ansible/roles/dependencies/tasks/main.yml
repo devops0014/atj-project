@@ -1,0 +1,2 @@
+- name: install git in dev server
+  action: yum name=git state=present
